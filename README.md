@@ -14,9 +14,9 @@ Minling Zhang: [A Review on Multi-Label Learning Algorithms](https://ieeexplore.
 
 Minling Zhang: [ML-KNN: A Lazy Learning Approach to Multi-Label Learning](http://xueshu.baidu.com/s?wd=paperuri%3A%28839c996d643b502366a3e172b4e205c3%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0031320307000027&ie=utf-8&sc_us=13138069364991137487), in Pattern Recognition 2007.
 
-Johannes Fürnkranz: [Multilabel classification via calibrated label ranking](http://link.springer.com/article/10.1007/s10994-008-5064-8), in Machine Learning 2008.
+Johannes Fürnkranz: [Multilabel Classification via Calibrated Label Ranking](http://link.springer.com/article/10.1007/s10994-008-5064-8), in Machine Learning 2008.
 
-Zhihua Zhou: [Multi-instance multi-label learning](http://xueshu.baidu.com/s?wd=paperuri%3A%2868eebebc5538e497fa42bca0816b67eb%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fdl.acm.org%2Fcitation.cfm%3Fid%3D2069972&ie=utf-8&sc_us=7632619167345951016), in Artificial Intelligence 2008.
+Zhihua Zhou: [Multi-instance Multi-label learning](http://xueshu.baidu.com/s?wd=paperuri%3A%2868eebebc5538e497fa42bca0816b67eb%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fdl.acm.org%2Fcitation.cfm%3Fid%3D2069972&ie=utf-8&sc_us=7632619167345951016), in Artificial Intelligence 2008.
 
 
 ## Label Tree and Graph Learning ##
@@ -25,7 +25,7 @@ Samy Bengio: [Label Embedding Trees for Large Multi-Class Tasks](https://papers.
 Rohit Babbar: [Adversarial Extreme Multi-label Classification](https://arxiv.org/pdf/1803.01570.pdf), in arXiv 2018. 
 
 ## Deep learning ##
-Fernando Benites: [HARAM: a Hierarchical ARAM neural network for large-scale text classification](http://doi.ieeecomputersociety.org/10.1109/ICDMW.2015.14),  IEEE International Conference on Data Mining Workshops 2015.
+Fernando Benites: [HARAM: A Hierarchical ARAM Neural Network for Large-scale Text Classification](http://doi.ieeecomputersociety.org/10.1109/ICDMW.2015.14),  IEEE International Conference on Data Mining Workshops 2015.
 
 Jianqing Zhu: [Multi-label convolutional neural network based pedestrian attribute classification](http://xueshu.baidu.com/s?wd=paperuri%3A%28e1d5498801f8b037516b554573b4f8df%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fdl.acm.org%2Fcitation.cfm%3Fid%3D3063831&ie=utf-8&sc_us=117785351172552305), In Image & Vision Computing 2017.
 
@@ -56,7 +56,7 @@ Cheng Gong: [Teaching-to-Learning-to-Teach for Multi-Label Propagation](http://w
 # Matrix Completion #
 Kang Zhao: [Top-N Recommender System via Matrix Completion](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/11824/11581), in AAAI 2016
 
-Joonseok Lee: [Local collaborative ranking](https://dl.acm.org/citation.cfm?id=2567970), in WWW pp 85-96 ACM 2014.
+Joonseok Lee: [Local Collaborative Ranking](https://dl.acm.org/citation.cfm?id=2567970), in WWW pp 85-96 ACM 2014.
 
 ## online Learning ##
 Steven C. H. Hoi: [Online Learning: A Comprehensive Survey](http://cn.arxiv.org/abs/1802.02871v2), in CoRR 2018.
@@ -71,7 +71,7 @@ Sophie Burkhardt1: [Online multi-label dependency topic models for text classifi
 
 Zahra Ahmadi: [Online Multi-Label Classification: A Label Compression Method](http://cn.arxiv.org/abs/1804.01491), in Pattern Recognition Letters(PRL) 2018.
 
-Aljaž Osojnik: [Multi-label classification via multi-target regression on data streams](https://link.springer.com/article/10.1007%2Fs10994-016-5613-5), in Machine Learning vol 2016 pp 745-770 2017.
+Aljaž Osojnik: [Multi-label Classification via Multi-target Regression on Data Streams](https://link.springer.com/article/10.1007%2Fs10994-016-5613-5), in Machine Learning vol 2016 pp 745-770 2017.
 
 ## Others ##
 Shan You[Privileged Multi-Label Learning](https://www.ijcai.org/proceedings/2017/0466.pdf), in IJCAI 2017.
