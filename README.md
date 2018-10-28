@@ -19,8 +19,8 @@ Johannes Fürnkranz: [Multilabel Classification via Calibrated Label Ranking](ht
 Zhihua Zhou: [Multi-instance Multi-label Learning](http://xueshu.baidu.com/s?wd=paperuri%3A%2868eebebc5538e497fa42bca0816b67eb%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fdl.acm.org%2Fcitation.cfm%3Fid%3D2069972&ie=utf-8&sc_us=7632619167345951016), in Artificial Intelligence 2008.
 
 
-## Label Tree and Graph Learning ##
-Samy Bengio: [Label Embedding Trees for Large Multi-Class Tasks](https://papers.nips.cc/paper/4027-label-embedding-trees-for-large-multi-class-tasks.pdf), in NIPS 2017.
+## Long Tail ##
+Yuxiong Wang: [Learning to Model the Tail](https://papers.nips.cc/paper/7278-learning-to-model-the-tail), in NIPS 2017.
 
 Rohit Babbar: [Adversarial Extreme Multi-label Classification](https://arxiv.org/pdf/1803.01570.pdf), in arXiv 2018. 
 
