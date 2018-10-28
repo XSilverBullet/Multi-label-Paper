@@ -16,7 +16,7 @@ Minling Zhang: [ML-KNN: A Lazy Learning Approach to Multi-Label Learning](http:/
 
 Johannes Fürnkranz: [Multilabel Classification via Calibrated Label Ranking](http://link.springer.com/article/10.1007/s10994-008-5064-8), in Machine Learning 2008.
 
-Zhihua Zhou: [Multi-instance Multi-label learning](http://xueshu.baidu.com/s?wd=paperuri%3A%2868eebebc5538e497fa42bca0816b67eb%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fdl.acm.org%2Fcitation.cfm%3Fid%3D2069972&ie=utf-8&sc_us=7632619167345951016), in Artificial Intelligence 2008.
+Zhihua Zhou: [Multi-instance Multi-label Learning](http://xueshu.baidu.com/s?wd=paperuri%3A%2868eebebc5538e497fa42bca0816b67eb%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fdl.acm.org%2Fcitation.cfm%3Fid%3D2069972&ie=utf-8&sc_us=7632619167345951016), in Artificial Intelligence 2008.
 
 
 ## Label Tree and Graph Learning ##
@@ -27,7 +27,7 @@ Rohit Babbar: [Adversarial Extreme Multi-label Classification](https://arxiv.org
 ## Deep learning ##
 Fernando Benites: [HARAM: A Hierarchical ARAM Neural Network for Large-scale Text Classification](http://doi.ieeecomputersociety.org/10.1109/ICDMW.2015.14),  IEEE International Conference on Data Mining Workshops 2015.
 
-Jianqing Zhu: [Multi-label convolutional neural network based pedestrian attribute classification](http://xueshu.baidu.com/s?wd=paperuri%3A%28e1d5498801f8b037516b554573b4f8df%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fdl.acm.org%2Fcitation.cfm%3Fid%3D3063831&ie=utf-8&sc_us=117785351172552305), In Image & Vision Computing 2017.
+Jianqing Zhu: [Multi-label Convolutional Neural Network based Pedestrian Attribute Classification](http://xueshu.baidu.com/s?wd=paperuri%3A%28e1d5498801f8b037516b554573b4f8df%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fdl.acm.org%2Fcitation.cfm%3Fid%3D3063831&ie=utf-8&sc_us=117785351172552305), In Image & Vision Computing 2017.
 
 Wenjie Zhang: [Deep Extreme Multi-label Learning](https://arxiv.org/abs/1704.03718), arXiv preprint arXiv:1704.03718. 2017 Apr 12.
 
