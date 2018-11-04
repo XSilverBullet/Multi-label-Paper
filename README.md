@@ -43,6 +43,10 @@ Yongcheng Liu: [Multi-Label Image Classification via Knowledge Distillation from
 
 Shiyi He: [Reinforced Multi-Label Image Classification by Exploring Curriculum](), in AAAI 2018.
 
+## Hierarchical Multi-Label ##
+JônatasWehrmann: [Hierarchical Multi-Label Classification Networks](http://proceedings.mlr.press/v80/wehrmann18a.html), in ICML 2018.
+
+
 ## Label Tree or Graph Learning ##
 Samy Bengio: [ Label Embedding Trees for Large Multi-Class Tasks](https://papers.nips.cc/paper/4027-label-embedding-trees-for-large-multi-class-tasks), in NIPS 2010.
 
