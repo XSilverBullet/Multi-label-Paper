@@ -24,7 +24,7 @@ Yuxiong Wang: [Learning to Model the Tail](https://papers.nips.cc/paper/7278-lea
 
 Rohit Babbar: [Adversarial Extreme Multi-label Classification](https://arxiv.org/pdf/1803.01570.pdf), in arXiv 2018. 
 
-## Deep learning ##
+## Deep Learning ##
 Fernando Benites: [HARAM: A Hierarchical ARAM Neural Network for Large-scale Text Classification](http://doi.ieeecomputersociety.org/10.1109/ICDMW.2015.14),  IEEE International Conference on Data Mining Workshops 2015.
 
 Jianqing Zhu: [Multi-label Convolutional Neural Network based Pedestrian Attribute Classification](http://xueshu.baidu.com/s?wd=paperuri%3A%28e1d5498801f8b037516b554573b4f8df%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fdl.acm.org%2Fcitation.cfm%3Fid%3D3063831&ie=utf-8&sc_us=117785351172552305), In Image & Vision Computing 2017.
@@ -42,6 +42,14 @@ Pengcheng Yang: [A Deep Reinforced Sequence-to-Set Model for Multi-Label Text Cl
 Yongcheng Liu: [Multi-Label Image Classification via Knowledge Distillation from Weakly-Supervised Detection](), in ACM Multimedia(MM) 2018.
 
 Shiyi He: [Reinforced Multi-Label Image Classification by Exploring Curriculum](), in AAAI 2018.
+
+Jiang Wang: [CNN-RNN: A Unified Framework for Multi-label Image Classification](https://arxiv.org/abs/1604.04573), in CVPR 2016.
+
+Yunchao Wei: [HCP: A Flexible CNN Framework for Multi-Label Image Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7305792&tag=1), in TPAMI 2016.
+
+Tianshui Chen: [Recurrent Attentional Reinforcement Learning for Multi-label Image Recognition](https://arxiv.org/pdf/1712.07465.pdf), in AAAI 2018.
+
+
 
 ## Hierarchical Multi-Label ##
 JônatasWehrmann: [Hierarchical Multi-Label Classification Networks](http://proceedings.mlr.press/v80/wehrmann18a.html), in ICML 2018.
