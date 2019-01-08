@@ -49,11 +49,8 @@ Yunchao Wei: [HCP: A Flexible CNN Framework for Multi-Label Image Classification
 
 Tianshui Chen: [Recurrent Attentional Reinforcement Learning for Multi-label Image Recognition](https://arxiv.org/pdf/1712.07465.pdf), in AAAI 2018.
 
-
-
 ## Hierarchical Multi-Label ##
 JônatasWehrmann: [Hierarchical Multi-Label Classification Networks](http://proceedings.mlr.press/v80/wehrmann18a.html), in ICML 2018.
-
 
 ## Label Tree or Graph Learning ##
 Samy Bengio: [ Label Embedding Trees for Large Multi-Class Tasks](https://papers.nips.cc/paper/4027-label-embedding-trees-for-large-multi-class-tasks), in NIPS 2010.
@@ -62,15 +59,22 @@ Jia Deng: [Fast and Balanced: Efficient Label Tree Learning for Large Scale Obje
 
 Wei Bi: [Multi-Label Classification on Tree-and DAG Structured](http://xueshu.baidu.com/s?wd=paperuri%3A%287cf023b6fd8a4cf2eb5478dc8a0ff2dc%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fdl.acm.org%2Fcitation.cfm%3Fid%3D3104485&ie=utf-8&sc_us=11672686252934049672), in ICML 2011.
 
+Piotr Szyma´nski: [LNEMLC: Label Network Embeddings for Multi-Label Classifiation](https://arxiv.org/abs/1812.02956), in Arxiv 2018.
+
+## Embedding ##
+Xin Li: [Multi-Label Classification with Feature-Aware Non-Linear Label Space Transformation](http://www.ijcai.org/Proceedings/15/Papers/511.pdf), in IJCAI 2015.
+
+Keigo Kimura: [Simultaneous Nonlinear Label-Instance Embedding for Multi-label Classification](http://www.springer.com/cda/content/document/cda_downloaddocument/9783319490540-c2.pdf?SGWID=0-0-45-1594207-p180397937), in Joint IAPR 2016.
+
 ## Self-spaced Multi-Label Learning ##
 Cheng Gong: [Teaching-to-Learning-to-Teach for Multi-Label Propagation](http://www.ee.columbia.edu/~wliu/AAAI16_MultiLP.pdf), in AAAI 2016.
 
-# Matrix Completion #
+## Matrix Completion ##
 Kang Zhao: [Top-N Recommender System via Matrix Completion](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/11824/11581), in AAAI 2016
 
 Joonseok Lee: [Local Collaborative Ranking](https://dl.acm.org/citation.cfm?id=2567970), in WWW pp 85-96 ACM 2014.
 
-## online Learning ##
+## Online Learning ##
 Steven C. H. Hoi: [Online Learning: A Comprehensive Survey](http://cn.arxiv.org/abs/1802.02871v2), in CoRR 2018.
 
 Young hun Jung: [Online Boosting Algorithms for Multi-label Ranking](http://cn.arxiv.org/abs/1710.08079), in arXiv 2017.
