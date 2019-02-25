@@ -97,3 +97,5 @@ Shenjun Huang: [Multi-Label Hypothesis Reuse](http://xueshu.baidu.com/s?wd=paper
 Mingkun Xie: [Partial Multi-Label Learning](), in AAAI 2018.
 
 Qianwen Zhang: [Feature-Induced Labeling Information Enrichment for Multi-Label Learning](), in AAAI 2018.
+
+Lei Feng:[Collaboration based Multi-Label Learning](), in AAAI 2019.
