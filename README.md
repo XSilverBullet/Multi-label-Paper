@@ -49,7 +49,9 @@ Yunchao Wei: [HCP: A Flexible CNN Framework for Multi-Label Image Classification
 
 Tianshui Chen: [Recurrent Attentional Reinforcement Learning for Multi-label Image Recognition](https://arxiv.org/pdf/1712.07465.pdf), in AAAI 2018.
 
-Thibaut Durand: [Learning a Deep ConvNet for Multi-label Classification with Partial Labels](https://arxiv.org/pdf/1902.09720), in CVPR 2019
+Thibaut Durand: [Learning a Deep ConvNet for Multi-label Classification with Partial Labels](https://arxiv.org/pdf/1902.09720), in CVPR 2019.
+
+Zhaomin chen: [Multi-Label Image Recognition with Graph Convolutional Networks](https://arxiv.org/pdf/1904.03582), in CVPR 2019.
 
 ## Hierarchical Multi-Label ##
 JônatasWehrmann: [Hierarchical Multi-Label Classification Networks](http://proceedings.mlr.press/v80/wehrmann18a.html), in ICML 2018.
