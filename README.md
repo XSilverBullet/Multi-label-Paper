@@ -25,6 +25,8 @@ Yuxiong Wang: [Learning to Model the Tail](https://papers.nips.cc/paper/7278-lea
 Rohit Babbar: [Adversarial Extreme Multi-label Classification](https://arxiv.org/pdf/1803.01570.pdf), in arXiv 2018. 
 
 ## Deep Learning ##
+Xuan Wu: [Multi-View Multi-Label Learning with View-Specific Information Extraction](), in IJCAI 19.
+
 Fernando Benites: [HARAM: A Hierarchical ARAM Neural Network for Large-scale Text Classification](http://doi.ieeecomputersociety.org/10.1109/ICDMW.2015.14),  IEEE International Conference on Data Mining Workshops 2015.
 
 Jianqing Zhu: [Multi-label Convolutional Neural Network based Pedestrian Attribute Classification](http://xueshu.baidu.com/s?wd=paperuri%3A%28e1d5498801f8b037516b554573b4f8df%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fdl.acm.org%2Fcitation.cfm%3Fid%3D3063831&ie=utf-8&sc_us=117785351172552305), In Image & Vision Computing 2017.
@@ -35,9 +37,13 @@ CK Yeh: [Learning Deep Latent Spaces for Multi-Label Classification](http://www.
 
 Sameera Ramasinghe: [A Context-aware Capsule Network for Multi-label Classification](https://arxiv.org/pdf/1810.06231), in arXiv 2018.
 
+Rami Aly: [Hierarchical Multi-label Classification of Text with Capsule Networks](), in ACL 2019.
+
 Pengcheng Yang: [SGM: Sequence Generation Model for Multi-Label Classification](https://www.baidu.com/link?url=BLefAuc6hWJ8uPfTjcjzd1BaTKfs1wVIn-VWxILNL2zH_DGDcLCZchgLedw5g0Hy&wd=&eqid=af29ebe70000d849000000055bd51d21), in COLING 2018.
 
-Pengcheng Yang: [A Deep Reinforced Sequence-to-Set Model for Multi-Label Text Classification](http://cn.arxiv.org/abs/1809.03118), in arXiv 2018.
+Pengcheng Yang: [A Deep Reinforced Sequence-to-Set Model for Multi-Label Text Classification](http://cn.arxiv.org/abs/1809.03118), in ACL 2019.
+
+Siddhartha Banerjee: [Hierarchical Transfer Learning for Multi-label Text Classification](), in ACL 2019.
 
 Yongcheng Liu: [Multi-Label Image Classification via Knowledge Distillation from Weakly-Supervised Detection](), in ACM Multimedia(MM) 2018.
 
