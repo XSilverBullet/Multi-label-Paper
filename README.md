@@ -1,3 +1,4 @@
+
 # Must-cared Multi-label Papers #
 
 This is a list of some important multi-label learning that serious students and researches working in the field should probably know about and read.
@@ -100,7 +101,7 @@ Zahra Ahmadi: [Online Multi-Label Classification: A Label Compression Method](ht
 Aljaž Osojnik: [Multi-label Classification via Multi-target Regression on Data Streams](https://link.springer.com/article/10.1007%2Fs10994-016-5613-5), in Machine Learning vol 2016 pp 745-770 2017.
 
 ## Others ##
-Shan You[Privileged Multi-Label Learning](https://www.ijcai.org/proceedings/2017/0466.pdf), in IJCAI 2017.
+Shan You: [Privileged Multi-Label Learning](https://www.ijcai.org/proceedings/2017/0466.pdf), in IJCAI 2017.
 
 Shenjun Huang: [Multi-Label Hypothesis Reuse](http://xueshu.baidu.com/s?wd=paperuri%3A%28981a1ee84cce9088e3599d463a07784f%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fdl.acm.org%2Fcitation.cfm%3Fid%3D2339615&ie=utf-8&sc_us=12857114202461647535), in KDD (Best Paper) 2012.
 
@@ -108,4 +109,6 @@ Mingkun Xie: [Partial Multi-Label Learning](), in AAAI 2018.
 
 Qianwen Zhang: [Feature-Induced Labeling Information Enrichment for Multi-Label Learning](), in AAAI 2018.
 
-Lei Feng:[Collaboration based Multi-Label Learning](), in AAAI 2019.
+Lei Feng: [Collaboration based Multi-Label Learning](), in AAAI 2019.
+
+Wu Jiawei: [Learning to Learn and Predict: A Meta-Learning Approach for Multi-Label Classification](https://arxiv.org/pdf/1909.04176.pdf), in EMNLP 2019.
